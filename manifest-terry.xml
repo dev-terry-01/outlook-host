@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OfficeApp xmlns="http://schemas.microsoft.com/office/appforoffice/1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:bt="http://schemas.microsoft.com/office/officeappbasictypes/1.0" xmlns:mailappor="http://schemas.microsoft.com/office/mailappversionoverrides/1.0" xsi:type="MailApp">
   <Id>c8510afa-2061-490e-90b7-58ec042565d0</Id>
-  <Version>2.0.2.525</Version>
+  <Version>2.0.2.526</Version>
   <ProviderName>LookOut Software</ProviderName>
   <DefaultLocale>en-US</DefaultLocale>
-  <DisplayName DefaultValue="Flex365x Connector 2.524"/>
+  <DisplayName DefaultValue="Flex365x Connector 2.526"/>
   <Description DefaultValue="Connect Outlook and Flex365x"/>
   <IconUrl DefaultValue="https://i.ibb.co/HYRQ7Sb/flex365x-icon.png"/>
   <HighResolutionIconUrl DefaultValue="https://i.ibb.co/HYRQ7Sb/flex365x-icon.png"/>
